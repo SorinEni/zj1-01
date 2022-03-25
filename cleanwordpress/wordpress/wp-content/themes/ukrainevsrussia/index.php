@@ -2,6 +2,6 @@
 get_header();
 
 ?>
-    To mě moc mrzí
+    <h1>- Index.php</h1>
 </body>
 </html>
