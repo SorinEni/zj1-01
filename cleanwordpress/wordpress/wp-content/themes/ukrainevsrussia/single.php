@@ -2,7 +2,7 @@
 get_header();
 ?>
 
-<h1>Stránka: <?php the_title(); ?></h1>
+<h1>Příspěvek: <?php the_title(); ?></h1>
 
 <?php
 the_content();

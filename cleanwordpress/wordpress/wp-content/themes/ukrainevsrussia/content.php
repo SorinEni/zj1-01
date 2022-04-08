@@ -3,3 +3,4 @@
 <p>Zdravím! Jsem Josef a bydlím v Plzni. Pracuji jako řidič autobusu a po nocích bloguji o, alespoň dle mého, zajímavých věcech...</p>
 <p>Společnost XYZ byla založena v roce 1989 a již od počátku nabízí svým zákazníkům vynikající výrobky pro kedsicosi. XYZ se soustředí především na kvalitu a detail za použití nejnovějších technologií a se zajištěním vysoké životnosti. Firma  sídlí v Kocourkově a zaměstnává více než 300 profesionálů ve různých oblastech.</p>
 <p>- Content php</p> 
+
