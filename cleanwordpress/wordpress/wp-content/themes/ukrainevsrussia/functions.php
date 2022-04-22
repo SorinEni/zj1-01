@@ -11,7 +11,7 @@
 
 	
     add_theme_support( 'custom-logo' );
-    function themename_custom_logo_setup() {
+    function ukrainevsrussia_custom_logo_setup() {
         $defaults = array(
             'height'               => 100,
             'width'                => 400,
